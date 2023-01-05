@@ -1,6 +1,5 @@
 ---
 # Table of Contents
----
   - [Foreword](#foreword)
   - [Terminology](#terminology)
   - [Overview](#overview)
