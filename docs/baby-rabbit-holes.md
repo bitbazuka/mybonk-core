@@ -106,6 +106,7 @@ Tmux shortcuts
   - [Wireguard](https://www.wireguard.com/quickstart/) This VPN technology is built into the kernel; Client app widely available, allows to connect to your local network remotly using a simple QR code to authenticate.
   - [Zerotier](https://www.zerotier.com/) Another VPN alternative.
   
+- [SHA from scratch with pen and paper](https://armantheparman.com/sha256/)(https://armantheparman.com/sha256/)
 - Chaumian ecash system
   - [Cashu](https://cashu.space/): Cashu is a free and open-source Chaumian ecash system built for Bitcoin. Cashu offers near-perfect privacy for users of custodial Bitcoin applications. Nobody needs to knows who you are, how much funds you have, and whom you transact with.
 
